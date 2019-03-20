@@ -65,9 +65,9 @@ public class TrabCardLayout extends javax.swing.JFrame {
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(106, 106, 106)
+                .addGap(105, 105, 105)
                 .addComponent(jButton1)
-                .addGap(70, 70, 70)
+                .addGap(71, 71, 71)
                 .addComponent(jButton2)
                 .addContainerGap(78, Short.MAX_VALUE))
         );
